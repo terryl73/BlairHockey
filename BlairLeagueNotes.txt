@@ -1,0 +1,13 @@
+Avg Auction Price vs Bid
+ Use share of auction price and convert to 180 cap.
+
+
+
+Change FSI to include Plus Minus
+
+
+Generate Your Price Sheet
+Interactive with the draft.
+
+Use Python for Grid?
+
